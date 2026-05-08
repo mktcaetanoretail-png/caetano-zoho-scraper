@@ -42,6 +42,14 @@ jobs:
             --merge \
             --output zoho-data.json
 
+      - name: Upload debug screenshots if any
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: debug-*.png
+          if-no-files-found: ignore
+
       - name: Commit zoho-data.json if changed
         run: |
           git config user.name  "github-actions[bot]"
