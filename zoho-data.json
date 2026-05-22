@@ -6,7 +6,7 @@
       "Facebook",
       "Instagram"
     ],
-    "last_update": "2026-05-21 08:26"
+    "last_update": "2026-05-22 08:19"
   },
   "Renault": {
     "abril 2026": {
@@ -45,13 +45,13 @@
     },
     "maio 2026": {
       "totals": {
-        "leads": 63,
-        "oportunidades": 20,
-        "taxa_oportunidade": 31.75
+        "leads": 70,
+        "oportunidades": 23,
+        "taxa_oportunidade": 32.86
       },
       "by_id_landing": {
         "Unknown": {
-          "leads": 2,
+          "leads": 3,
           "oportunidades": 0,
           "taxa_oportunidade": 0.0
         },
@@ -61,14 +61,14 @@
           "taxa_oportunidade": 0.0
         },
         "1159": {
-          "leads": 33,
-          "oportunidades": 14,
-          "taxa_oportunidade": 42.42
+          "leads": 36,
+          "oportunidades": 15,
+          "taxa_oportunidade": 41.67
         },
         "3818": {
-          "leads": 27,
-          "oportunidades": 5,
-          "taxa_oportunidade": 18.52
+          "leads": 30,
+          "oportunidades": 7,
+          "taxa_oportunidade": 23.33
         }
       }
     },
@@ -188,9 +188,9 @@
   "BMW": {
     "maio 2026": {
       "totals": {
-        "leads": 39,
+        "leads": 40,
         "oportunidades": 8,
-        "taxa_oportunidade": 20.51
+        "taxa_oportunidade": 20.0
       },
       "by_id_landing": {
         "Unknown": {
@@ -204,9 +204,9 @@
           "taxa_oportunidade": 20.0
         },
         "4200": {
-          "leads": 13,
+          "leads": 14,
           "oportunidades": 2,
-          "taxa_oportunidade": 15.38
+          "taxa_oportunidade": 14.29
         }
       }
     },
@@ -320,9 +320,9 @@
   "MINI": {
     "maio 2026": {
       "totals": {
-        "leads": 66,
+        "leads": 68,
         "oportunidades": 7,
-        "taxa_oportunidade": 10.61
+        "taxa_oportunidade": 10.29
       },
       "by_id_landing": {
         "1631": {
@@ -331,9 +331,9 @@
           "taxa_oportunidade": 0.0
         },
         "1689": {
-          "leads": 62,
+          "leads": 64,
           "oportunidades": 6,
-          "taxa_oportunidade": 9.68
+          "taxa_oportunidade": 9.38
         },
         "2735": {
           "leads": 2,
@@ -427,25 +427,35 @@
   "Motorrad": {
     "maio 2026": {
       "totals": {
-        "leads": 269,
+        "leads": 279,
         "oportunidades": 63,
-        "taxa_oportunidade": 23.42
+        "taxa_oportunidade": 22.58
       },
       "by_id_landing": {
+        "Unknown": {
+          "leads": 1,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
+        },
         "1729": {
           "leads": 5,
           "oportunidades": 1,
           "taxa_oportunidade": 20.0
         },
         "1841": {
-          "leads": 263,
+          "leads": 270,
           "oportunidades": 61,
-          "taxa_oportunidade": 23.19
+          "taxa_oportunidade": 22.59
         },
         "2417": {
           "leads": 1,
           "oportunidades": 1,
           "taxa_oportunidade": 100.0
+        },
+        "3140": {
+          "leads": 2,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
         }
       }
     },
@@ -529,9 +539,9 @@
   "Audi": {
     "maio 2026": {
       "totals": {
-        "leads": 47,
-        "oportunidades": 4,
-        "taxa_oportunidade": 8.51
+        "leads": 50,
+        "oportunidades": 6,
+        "taxa_oportunidade": 12.0
       },
       "by_id_landing": {
         "0": {
@@ -545,9 +555,9 @@
           "taxa_oportunidade": 11.43
         },
         "3064": {
-          "leads": 11,
-          "oportunidades": 0,
-          "taxa_oportunidade": 0.0
+          "leads": 14,
+          "oportunidades": 2,
+          "taxa_oportunidade": 14.29
         }
       }
     },
@@ -681,15 +691,15 @@
   "Volkswagen": {
     "maio 2026": {
       "totals": {
-        "leads": 29,
-        "oportunidades": 4,
-        "taxa_oportunidade": 13.79
+        "leads": 33,
+        "oportunidades": 9,
+        "taxa_oportunidade": 27.27
       },
       "by_id_landing": {
         "Unknown": {
-          "leads": 1,
-          "oportunidades": 0,
-          "taxa_oportunidade": 0.0
+          "leads": 2,
+          "oportunidades": 1,
+          "taxa_oportunidade": 50.0
         },
         "0": {
           "leads": 1,
@@ -703,8 +713,8 @@
         },
         "1304": {
           "leads": 9,
-          "oportunidades": 3,
-          "taxa_oportunidade": 33.33
+          "oportunidades": 4,
+          "taxa_oportunidade": 44.44
         },
         "1308": {
           "leads": 6,
@@ -712,9 +722,9 @@
           "taxa_oportunidade": 0.0
         },
         "3184": {
-          "leads": 3,
-          "oportunidades": 0,
-          "taxa_oportunidade": 0.0
+          "leads": 6,
+          "oportunidades": 3,
+          "taxa_oportunidade": 50.0
         }
       }
     },
@@ -868,9 +878,9 @@
   "Škoda": {
     "maio 2026": {
       "totals": {
-        "leads": 34,
+        "leads": 35,
         "oportunidades": 4,
-        "taxa_oportunidade": 11.76
+        "taxa_oportunidade": 11.43
       },
       "by_id_landing": {
         "1960": {
@@ -879,7 +889,7 @@
           "taxa_oportunidade": 9.68
         },
         "2044": {
-          "leads": 3,
+          "leads": 4,
           "oportunidades": 0,
           "taxa_oportunidade": 0.0
         }
@@ -990,20 +1000,20 @@
   "Nissan": {
     "maio 2026": {
       "totals": {
-        "leads": 26,
-        "oportunidades": 2,
-        "taxa_oportunidade": 7.69
+        "leads": 28,
+        "oportunidades": 3,
+        "taxa_oportunidade": 10.71
       },
       "by_id_landing": {
         "0": {
-          "leads": 12,
+          "leads": 13,
           "oportunidades": 0,
           "taxa_oportunidade": 0.0
         },
         "022001": {
-          "leads": 14,
-          "oportunidades": 1,
-          "taxa_oportunidade": 7.14
+          "leads": 15,
+          "oportunidades": 2,
+          "taxa_oportunidade": 13.33
         }
       }
     },
@@ -1137,15 +1147,15 @@
   "Alpine": {
     "maio 2026": {
       "totals": {
-        "leads": 86,
+        "leads": 98,
         "oportunidades": 8,
-        "taxa_oportunidade": 9.3
+        "taxa_oportunidade": 8.16
       },
       "by_id_landing": {
         "1778": {
-          "leads": 86,
+          "leads": 98,
           "oportunidades": 8,
-          "taxa_oportunidade": 9.3
+          "taxa_oportunidade": 8.16
         }
       }
     },
@@ -1207,20 +1217,25 @@
   "Dacia": {
     "maio 2026": {
       "totals": {
-        "leads": 177,
+        "leads": 182,
         "oportunidades": 23,
-        "taxa_oportunidade": 12.99
+        "taxa_oportunidade": 12.64
       },
       "by_id_landing": {
+        "Unknown": {
+          "leads": 1,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
+        },
         "1247": {
-          "leads": 3,
+          "leads": 4,
           "oportunidades": 0,
           "taxa_oportunidade": 0.0
         },
         "1276": {
-          "leads": 112,
+          "leads": 115,
           "oportunidades": 15,
-          "taxa_oportunidade": 13.39
+          "taxa_oportunidade": 13.04
         },
         "1848": {
           "leads": 61,
@@ -1551,8 +1566,8 @@
   "Mercedes-Benz": {
     "maio 2026": {
       "totals": {
-        "leads": 2,
-        "oportunidades": 2,
+        "leads": 3,
+        "oportunidades": 3,
         "taxa_oportunidade": 100.0
       },
       "by_id_landing": {
@@ -1562,6 +1577,11 @@
           "taxa_oportunidade": 100.0
         },
         "1770": {
+          "leads": 1,
+          "oportunidades": 1,
+          "taxa_oportunidade": 100.0
+        },
+        "3064": {
           "leads": 1,
           "oportunidades": 1,
           "taxa_oportunidade": 100.0
