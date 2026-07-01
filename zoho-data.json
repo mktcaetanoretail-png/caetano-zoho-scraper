@@ -6,7 +6,7 @@
       "Facebook",
       "Instagram"
     ],
-    "last_update": "2026-06-30 08:25"
+    "last_update": "2026-07-01 08:46"
   },
   "Renault": {
     "abril 2026": {
@@ -212,6 +212,20 @@
           "taxa_oportunidade": 16.67
         }
       }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 1,
+        "oportunidades": 0,
+        "taxa_oportunidade": 0.0
+      },
+      "by_id_landing": {
+        "4812": {
+          "leads": 1,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
+        }
+      }
     }
   },
   "BMW": {
@@ -373,6 +387,13 @@
           "taxa_oportunidade": 50.0
         }
       }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 0,
+        "oportunidades": 0
+      },
+      "by_id_landing": {}
     }
   },
   "MINI": {
@@ -645,6 +666,13 @@
           "taxa_oportunidade": 53.85
         }
       }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 0,
+        "oportunidades": 0
+      },
+      "by_id_landing": {}
     }
   },
   "Audi": {
@@ -1052,6 +1080,13 @@
           "taxa_oportunidade": 66.67
         }
       }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 0,
+        "oportunidades": 0
+      },
+      "by_id_landing": {}
     }
   },
   "Škoda": {
@@ -1372,6 +1407,20 @@
           "leads": 37,
           "oportunidades": 1,
           "taxa_oportunidade": 2.7
+        }
+      }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 1,
+        "oportunidades": 0,
+        "taxa_oportunidade": 0.0
+      },
+      "by_id_landing": {
+        "022001": {
+          "leads": 1,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
         }
       }
     }
@@ -2015,6 +2064,20 @@
         },
         "3768": {
           "leads": 5,
+          "oportunidades": 0,
+          "taxa_oportunidade": 0.0
+        }
+      }
+    },
+    "julho 2026": {
+      "totals": {
+        "leads": 4,
+        "oportunidades": 0,
+        "taxa_oportunidade": 0.0
+      },
+      "by_id_landing": {
+        "1478": {
+          "leads": 4,
           "oportunidades": 0,
           "taxa_oportunidade": 0.0
         }
